@@ -1,0 +1,78 @@
+<opml version="1.0">
+  <head>
+    <title>YouTube Channels</title>
+  </head>
+  <body>
+    <outline text="YouTube">
+
+      <outline text="Veritasium"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"/>
+
+      <outline text="Blueprint"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3m7l8ved_rYQ45AVzS0RGA"/>
+
+      <outline text="Technology Connections"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q"/>
+
+      <outline text="Seytonic"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6xlqxSY3gGur4PkGPEUeA"/>
+
+      <outline text="Null Byte"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCgTNupxATBfWmfehv21ym-g"/>
+
+      <outline text="Level1Techs"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4b5d3T3F0vJ9p3sWcW2Vbw"/>
+
+      <outline text="Jeff Geerling"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg"/>
+
+      <outline text="Learn Linux TV"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxQKHvKbmSzGMvUrVtJYnUA"/>
+
+      <outline text="Lawrence Systems"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHkYOD-3fZbuGhwsADBd9ZQ"/>
+
+      <outline text="Christian Lempa"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZNhwA1B5YqiY1nLzmM0ZRg"/>
+
+      <outline text="TechWorld with Nana"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdngmbVKX1Tgre699-XLlUA"/>
+
+      <outline text="Snyk"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7K7hV9d0mU0FQ8K1q3N9Vw"/>
+
+      <outline text="Thoughtworks"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCs4JpRjZ2a6Wc9pH0vQ0bHg"/>
+
+      <outline text="Professor Messer"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkefXKtInZ9PLsoGRtml2FQ"/>
+
+      <outline text="Be Inspired"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaC0S9N5T6L5Xk9c1A2y7NQ"/>
+
+      <outline text="ElectroBOOM"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJ0-OtVpF0wOKEqT2Z1HEtA"/>
+
+      <outline text="Ben Eater"
+        type="rss"
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaIH4Xk4K3S9Q8K1cYg1xXw"/>
+
+    </outline>
+  </body>
+</opml>
